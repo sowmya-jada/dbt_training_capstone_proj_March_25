@@ -1,1 +1,0 @@
-# dbt_training_capstone_proj_March_25
